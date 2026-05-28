@@ -1,4 +1,4 @@
-// For submission
+// For submission Updated 20260528 B
 public class Task2 {
     public static void main(String[] args) {
         char letterH = 'H';
