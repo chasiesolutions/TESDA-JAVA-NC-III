@@ -1,4 +1,3 @@
-// For submission Updated 20260528
 /* Create all of the primitives (except long and double) with 
 different values. Concatenate them into a string and print it to
 the screen so it will print:
