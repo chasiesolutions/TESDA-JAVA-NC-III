@@ -1,8 +1,9 @@
 /*
 Check whose largest number in 3 inputs
-Write a program that takes in three numbers from the user and outputs the largest number. If all numbers are equal it will print "All numbers are equal".
+Write a program that takes in three numbers from the user and outputs the largest number. 
+If all numbers are equal it will print "All numbers are equal".
 */
-
+package otherFolder;
 import java.util.*;
 
 public class Task5 {
